@@ -1,0 +1,10 @@
+2022-11-26 20:02:11 INFO  Log4j:9 - Test başladı
+2022-11-26 20:02:11 INFO  Log4j:19 - Arama yapıldı.
+2022-11-26 20:02:30 INFO  Log4j:19 - Son eşyanın adı:Mama Kaşığı 2’li Aqua Green- Mellow Yellow
+2022-11-26 20:02:32 INFO  Log4j:19 - Açılan eşyanın adı:Mama Kaşığı 2’li Aqua Green- Mellow Yellow
+2022-11-26 20:02:32 INFO  Log4j:19 - Eşya ismi doğrulaması başarılı.
+2022-11-26 20:02:32 INFO  Log4j:19 - Eşya sepete eklendi.
+2022-11-26 20:02:34 INFO  Log4j:19 - Sepete gidildi.
+2022-11-26 20:02:38 INFO  Log4j:19 - Satın al butonuna basıldı.
+2022-11-26 20:02:40 INFO  Log4j:19 - Üye girişine yönlendirme başarıyla gerçekleşti.
+2022-11-26 20:02:40 INFO  Log4j:14 - Test bitti
