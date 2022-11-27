@@ -23,9 +23,9 @@ Bu proje e-bebek web sitesinde test gerçekleştirmektedir.
 ## Ekran Görüntüleri
 
 
-
+### -Log Çıktısı
 ![Log Çıktısı](https://iili.io/HKqyPN2.png)
 --------------------------------
-
+### -Cucumber Rapor Çıktısı
 ![Cucumber Rapor Çıktısı](https://iili.io/HKBq5fp.png)
 
